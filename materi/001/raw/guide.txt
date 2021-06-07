@@ -1,0 +1,20 @@
+// SPDX-License-Identifier: GPL-2.0
+
+Halo semuanya!
+
+Sebelum saya sharing terkait GNU C, ada baiknya saya perkenalan dahulu. Kan tidak seru, kalau gak kenal nanti tiba-tiba nerocos saja.
+
+Ini profile saya,
+Nama: Ammar Faizi
+Panggilan: Ammar
+Jenis kelamin : Laki-laki
+Code Name: IceTea / ammarfaizi2
+Telegram & Twitter: @ammarfaizi2
+Facebook: https://www.facebook.com/ammarfaizi2
+GitHub: https://github.com/ammarfaizi2
+
+Jenis kelamin saya perjelas, karena beberapa kali saya dipanggil Ibu.
+
+
+Untuk materi hari ini, mohon maaf sekali jika penyampaiannya sangat dasar. Jadi member yang mungkin sudah expert di C programming, mohon bersabar untuk kita gandeng bersama teman-teman yang masih memulai perjalanannya menjadi software engineer.
+

@@ -4,5 +4,4 @@
 #
 # Copyright (C) 2021  Ammar Faizi <ammarfaizi2@gmail.com>
 #
-
-ln -svf ../../materi/001 indexes/gnu_c/001
+php raw/wrap.php > guide.txt;
